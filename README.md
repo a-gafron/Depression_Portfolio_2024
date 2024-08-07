@@ -36,7 +36,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone git@github.com:juergen-geiser/Depression_Portfolo_2024.git
+git clone git@github.com:juergen-geiser/Depression_Portfolio_2024.git
 ```
 2. Navigate to the project directory:
 ```
