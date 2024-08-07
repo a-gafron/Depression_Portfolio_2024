@@ -1,4 +1,4 @@
-# Depression_Portfolio_2024
+# Depression_Portfolo_2024
 Project: Detection of Depression with Machine Learning and Power-BI-Tools
 
 ### Project Overview
